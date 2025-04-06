@@ -1,5 +1,11 @@
 # Analisis Interaksi Sosial dan Emosional pada Smart Door Lock
 
+**Nama:** Farand Febriansyah  
+**NRP:** 5027231084  
+**Mata Kuliah:** Interaksi Manusia dan Komputer
+
+---
+
 ## Deskripsi Umum
 Smart Door Lock adalah perangkat keamanan digital yang memungkinkan pengguna untuk mengontrol akses ke suatu ruangan atau bangunan menggunakan teknologi pintar. Perangkat ini umumnya terhubung dengan aplikasi pada smartphone dan dapat memberikan atau mencabut akses secara fleksibel. Studi ini menganalisis bagaimana perangkat ini memfasilitasi interaksi sosial dan emosional antar pengguna.
 
@@ -97,9 +103,5 @@ Tujuan utama dari Smart Door Lock adalah:
 Smart Door Lock bukan hanya alat untuk meningkatkan keamanan, tetapi juga dapat menjadi sarana interaksi sosial dan emosional antar pengguna. Dengan menambahkan elemen personal dan sosial, pengalaman pengguna bisa menjadi lebih bermakna dan menyenangkan. Perpaduan antara fungsionalitas dan empati menjadi kunci dalam pengembangan sistem ini di masa depan.
 
 ---
-
-**Nama:** Farand Febriansyah  
-**NRP:** 5027231084  
-**Mata Kuliah:** Interaksi Manusia dan Komputer
 
 
